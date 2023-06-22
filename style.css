@@ -1,0 +1,27 @@
+header {
+    background-color: #2f4f4f;
+    width: 100%;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+body {
+    margin: 0px;
+    background-color: #729797;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+footer {
+    background-color: #2f4f4f;
+    width: 100%;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
